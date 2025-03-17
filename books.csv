@@ -1,2 +1,4 @@
-id,title,author,isbn,category,status,added_date,notes
-1,"english book",hamna,"",abcd,"To Read","2025-03-13 22:26:09","this is enlish book"
+id,title,author,publication_year,genre,read_status
+2,"english book",ali,2025,"learning and better communication skills",0
+3,"math book",bilal,2020,"mathematics knowledge",1
+4,sindhi,sarfaraz,2027,"for knowledge",1
